@@ -32,10 +32,10 @@
 ---
 
 <h3> 👨🏻‍💻  Hacking Handles </h3>
+<script src="https://tryhackme.com/badge/588166"></script>
 
 <a href="https://tryhackme.com/p/radhakrishnanr">
       <img src="https://img.shields.io/badge/Tryhackme-B22222?style=for-the-badge&logo=tryhackme&logoColor=white&style=flat" alt="TryHackMe Badge"/>
-      <script src="https://tryhackme.com/badge/588166"></script>
 </a>
 
 ---
