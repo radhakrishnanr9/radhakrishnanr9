@@ -20,7 +20,7 @@
 
 <!-- Using SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Radhakrishnan;Cybersecurity+Researcher;Red+Teamer;Penetration+Tester;%20CTF+Player%20|%20TryHackMe%20;Always%20willing%20to%20learn%20new%20things&center=true&width=580&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Radhakrishnan;Cybersecurity+Researcher;Red+Teamer;Penetration+Tester;%20CTF+Player%20|%20TryHackMe&center=true&width=580&height=45"></a>
 </p>
 
 ---
